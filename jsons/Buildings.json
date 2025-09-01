@@ -4,10 +4,11 @@
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 5,
+		"culture": 5,
+		"science": 10,
+		"uniques": ["Cannot be purchased"], ["Can be purchased with [Culture] [in all cities"], 
+		"maintenance": 10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -19,7 +20,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["60% of food is carried over after a new citizen is born"],
+		"requiredTech": "Pottery"
 	}
 ]
